@@ -1,0 +1,14 @@
+"list_column_name" = "Name";
+"list_column_path" = "Path";
+"list_column_size" = "Size";
+
+"load_derived_data_button" = "Load Derived Data";
+"move_to_trash_button" = "Move to trash";
+"clean_list_button" = "Clean list";
+
+"window_title" = "FilesApp";
+
+"alert_delete_title" = "Delete selected files?";
+"alert_delete_description" = "Are you sure you would like to delete selected files?";
+"alert_delete_button_delete" = "Delete";
+"alert_delete_button_cancel" = "Cancel";
