@@ -26,6 +26,7 @@
 		493784F32230643C00357C75 /* FilesDataServiceDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493784F22230643C00357C75 /* FilesDataServiceDelegate.swift */; };
 		49C0367A222C29D900054A82 /* Column.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C03679222C29D900054A82 /* Column.swift */; };
 		49C0367E222C652C00054A82 /* FilesWindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C0367D222C652C00054A82 /* FilesWindowController.swift */; };
+		8FE4636A22367CBE007F4A8F /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C0367B222C57D800054A82 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -369,6 +370,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8FE4636A22367CBE007F4A8F /* File.swift in Sources */,
 				493784F32230643C00357C75 /* FilesDataServiceDelegate.swift in Sources */,
 				493784F12230634F00357C75 /* FilesData.swift in Sources */,
 				493784E8223062D000357C75 /* main.swift in Sources */,
